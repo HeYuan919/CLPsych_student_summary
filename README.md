@@ -6,3 +6,4 @@ The Literature_Review_Tech.pdf is for CS-related students to easily find usable 
 
 The Literature_NonTech.pdf is for clinicians (all non-technicians) and doesn't contain many technical terminologies. It summarizes the main AI applications in the Clinical Psychology field with their limitations and future directions.
 
+If not found in this repository, it means the file is under revision now and will be uploaded after revision, with the suffix _v2/v3/v4.
