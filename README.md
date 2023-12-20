@@ -6,4 +6,4 @@ The Literature_Review_Tech.pdf is for CS-related students to easily find usable 
 
 The Literature_Review_of_AI_Applications_in_Clinical_Psychology.pdf is for clinicians (all non-technicians) and doesn't contain many technical terminologies. It summarizes the main AI applications in the Clinical Psychology field with their limitations and future directions.
 
-If not found in this repository, it means the file is under revision now and will be uploaded after revision, with the suffix _v2/v3/v4.
+If not found in this repository, it means the file is under revision now and will be uploaded after revision, with the suffix _v2/v3/v4. These documents are summaries of my regular readings, and they couldn't fully cover every published paper, so feel free to remind me if I'm missing something important to add.
